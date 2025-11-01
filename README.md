@@ -1,5 +1,5 @@
 # Calculator_my_project
-
+#my_first_demo_project
 A simple calculator built using HTML,CSS, and Javascript.
 Perform basic arithmetic operations(+,-,*,/).
 Clear and delete functionality.
